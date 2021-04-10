@@ -1,9 +1,6 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://discord.gg/436xBCR">
+<a href="https://discord.com/users/626582629591810080">
   <img align="left" alt="ZentriX RP Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
-<a href="https://discord.gg/yZa5rpV">
-  <img align="left" alt="Project SP RP Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
 <a href="https://twitter.com/tc2m_victor">
   <img align="left" alt="victorBOY | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -24,7 +21,7 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
   <img align="right" alt="GIF" src="https://github.com/vWernay/vWernay/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@victorBOY#3179](https://discord.com/);
+- 📫 How to reach me: [@victorBOY#3179](https://discord.com/users/626582629591810080);
 - 📝 [Resume]()
 
 **Languages, Libraries and Tools:**  
