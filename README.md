@@ -1,25 +1,25 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <a href="https://discord.com/users/626582629591810080">
-  <img align="left" alt="ZentriX RP Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+  <img align="left" alt="My Discord" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/discord/discord.png" />
 </a>
-<a href="https://twitter.com/tc2m_victor">
-  <img align="left" alt="victorBOY | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+<a href="https://www.linkedin.com/in/victor-lellis-70015b20b">
+  <img align="left" alt="My LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/victorlwernay/">
-  <img align="left" alt="victorBOY | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<a href="https://www.instagram.com/victorlwernay">
+  <img align="left" alt="My Instagram" width="22px" src="https://raw.githubusercontent.com/github/explore/main/topics/instagram/instagram.png" />
 </a>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=vwernay.vwernay)
 
 <br />
 
-Hi, I'm [Victor Lellis](https://www.instagram.com/victorlwernay/), a Game and Web developer.
+Hi, I'm Victor Lellis, a Script and Web developer.
 
   <img align="right" alt="GIF" src="https://github.com/vWernay/vWernay/blob/main/code.gif?raw=true" width="500" height="320" />
   
 - 💬 Ask me about anything, I am happy to help;
 - 📫 How to reach me: [@victorBOY#3179](https://discord.com/users/626582629591810080);
-- 📝 [Resume]()
+- 📝 [Portfolio](https://victorlwernay.tech)
 
 **Languages, Libraries and Tools:**  
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/lua/lua.png"></code>
@@ -50,12 +50,3 @@ Hi, I'm [Victor Lellis](https://www.instagram.com/victorlwernay/), a Game and We
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 <!--END_SECTION:waka-->
-
-If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/victorBOY" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
-
-📈 My GitHub Stats
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vWernay&show_icons=true&theme=gotham" alt="vWernay" />
