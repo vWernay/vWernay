@@ -1,12 +1,8 @@
-## Victor Lellis
+## Victor Wernay
 
-Full-stack developer focused on Web, Mobile, and Software Development. 
-Curious about technology, passionate about cars and games.
+Full-stack developer building web apps, real-time systems and game scripts
+Focused on performance, scalability and clean architecture
 
-- 🛠️ Main Stack: JavaScript · TypeScript · Node.js · Lua · React · Next.js · Vue · Git
+- 🛠️ Main Stack: JavaScript · TypeScript · Node.js · Lua · React · Next.js · TanStack · Vue · Git · Data Annotation
 - 🌐 [victorlwernay.dev](https://www.victorlwernay.dev)
 - 📫 [LinkedIn](https://www.linkedin.com/in/victor-lellis)
-
-```lua
-// Clean code, clean profile.
-```
